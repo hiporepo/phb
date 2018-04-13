@@ -1,0 +1,20 @@
+
+{
+    "reponame":"Ender’s World",
+    "repologo":"https://enderapps.github.io/iGBA/repo.png",
+    "repoauthor":"Enderapps",
+    "repodesc":"This Eclipse repo is filled with official roms, rom hacks, and randomizers. If you would like to suggest any rom to be added please message me on Twitter @Cyra_Enderapps.",
+    "categories":[
+    {
+    "categoryname":"Gameboy / Gameboy Color / Gameboy Advanced",
+    "games":[
+    {
+    "name":"Pokemon Leaf Green",
+    "link":"https://www.dropbox.com/s/5wl2v3vrocgxmsq/Pokemon%20Leaf%20Green.gba?dl=1",
+    "boxart":"http://c-7npsfqifvt34x24nfejbx2ejhox2edpn.g00.ign.com/g00/3_c-7x78x78x78.jho.dpn_/c-7NPSFQIFVT34x24iuuqx3ax2fx2fnfejb.jho.dpnx2fhbnftx2fjnbhfx2fpckfdux2f716x2f716019x2fQplfnpo-MfbgHsffo_XjuiBebqufs_HCB_FTSC.kqhx3fj21d.nbslx3djnbhf_$/$/$/$/$/$/$",
+    "system":"GBA"
+    },
+    {
+    }
+    ]
+}
