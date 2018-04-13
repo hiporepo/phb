@@ -11,6 +11,12 @@
           "name":"Pokemon Leaf Green",
           "link":"https://www.dropbox.com/s/5wl2v3vrocgxmsq/Pokemon%20Leaf%20Green.gba?dl=1",
           "boxart":"https://hiporepo.github.io/plg.jpg",
+          "system":"GB"
+        }
+        {
+          "name":"Pokemon Red",
+          "link":"https://www.dropbox.com/s/ve2q3kehwrzvgyj/Pokemon%20Red.gb?dl=1",
+          "boxart":"https://hiporepo.github.io/plg.jpg",
           "system":"GBA"
         }
       ]
