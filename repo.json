@@ -14,6 +14,18 @@
           "system":"GBA"
         },
         {
+          "name":"Pokemon Fire Red",
+          "link":"https://www.dropbox.com/s/99nx91yvwwlzcz6/Pokemon%20Fire%20Red.gba?dl=1",
+          "boxart":"https://hiporepo.github.io/pfr.jpg",
+          "system":"GBA"
+        },
+        {
+          "name":"Pokemon Emerald",
+          "link":"https://www.dropbox.com/s/ph06ecbfyta1eq4/Pokemon%20Emerald.gba?dl=1",
+          "boxart":"https://hiporepo.github.io/pme.jpg",
+          "system":"GBA"
+        },
+        {
           "name":"Pokemon Red",
           "link":"https://www.dropbox.com/s/ve2q3kehwrzvgyj/Pokemon%20Red.gb?dl=1",
           "boxart":"https://hiporepo.github.io/pmr.jpg",
