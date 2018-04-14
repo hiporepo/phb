@@ -5,7 +5,7 @@
   "repodesc":"My Repository with games and stuff.",
   "categories":[
     {
-      "categoryname":"GB / GBC / GBA",
+      "categoryname":"Commercial Games",
       "games":[
         {
           "name":"Pokemon Leaf Green",
@@ -24,6 +24,18 @@
           "link":"https://www.dropbox.com/s/3wflvlz0vpt7dqx/Super%20Mario%20Bros.nes?dl=1",
           "boxart":"https://hiporepo.github.io/smb.jpg",
           "system":"NES"
+        },
+        {
+          "name":"Super Mario Bros: The Lost Levels",
+          "link":"https://www.dropbox.com/s/vp31lknb20gphbc/Super%20Mario%20Bros%20The%20Lost%20Levels.nes?dl=1",
+          "boxart":"https://hiporepo.github.io/tll.png",
+          "system":"NES"
+        }
+        {
+          "name":"Super Mario Advance 4",
+          "link":"https://www.dropbox.com/s/hwpq8tu30tkwr37/Super%20Mario%20Advance%204.gba?dl=1",
+          "boxart":"https://hiporepo.github.io/sm4.jpg",
+          "system":"GBA"
         }
       ]
     }
