@@ -1,71 +1,17 @@
 {
-  "reponame":"Hipeopeo's Repo",
-  "repologo":"https://pbs.twimg.com/profile_images/943093109591863296/2sLfpHM4_400x400.jpg",
-  "repoauthor":"Hipeopeo",
-  "repodesc":"My Repository with games and stuff.",
+  "reponame":"Public Homebrew Repository",
+  "repologo":"https://hiporepo.github.io/phb/repologo.png",
+  "repoauthor":"Hipeopeo / Internet",
+  "repodesc":"A Public Homebrew Repository",
   "categories":[
     {
-      "categoryname":"Commercial Games",
+      "categoryname":"Gameboy / Color / Advanced",
       "games":[
         {
-          "name":"Pokemon Leaf Green",
-          "link":"https://www.dropbox.com/s/5wl2v3vrocgxmsq/Pokemon%20Leaf%20Green.gba?dl=1",
-          "boxart":"https://hiporepo.github.io/plg.jpg",
+          "name":"Vulkanon",
+          "link":"https://www.dropbox.com/s/cmwwu0nbycbm247/vulkanon.gba?dl=1",
+          "boxart":"https://hiporepo.github.io/phb/vulkanon.png",
           "system":"GBA"
-        },
-        {
-          "name":"Pokemon Fire Red",
-          "link":"https://www.dropbox.com/s/99nx91yvwwlzcz6/Pokemon%20Fire%20Red.gba?dl=1",
-          "boxart":"https://hiporepo.github.io/pfr.jpg",
-          "system":"GBA"
-        },
-        {
-          "name":"Pokemon Emerald",
-          "link":"https://www.dropbox.com/s/ph06ecbfyta1eq4/Pokemon%20Emerald.gba?dl=1",
-          "boxart":"https://hiporepo.github.io/pme.jpg",
-          "system":"GBA"
-        },
-        {
-          "name":"Pokemon Red",
-          "link":"https://www.dropbox.com/s/ve2q3kehwrzvgyj/Pokemon%20Red.gb?dl=1",
-          "boxart":"https://hiporepo.github.io/pmr.jpg",
-          "system":"GB"
-        },
-        {
-          "name":"Pokemon Blue",
-          "link":"https://www.dropbox.com/s/vzja87lhndcuqa8/Pokemon%20Blue.gb?dl=1",
-          "boxart":"https://hiporepo.github.io/pmb.jpg",
-          "system":"GB"
-        },
-        {
-          "name":"Pokemon Yellow",
-          "link":"https://www.dropbox.com/s/lw8nmxt28g6uaqu/Pokemon%20Yellow.gbc?dl=1",
-          "boxart":"https://hiporepo.github.io/pmy.jpg",
-          "system":"GBC"
-        },
-        {
-          "name":"Super Mario Bros",
-          "link":"https://www.dropbox.com/s/3wflvlz0vpt7dqx/Super%20Mario%20Bros.nes?dl=1",
-          "boxart":"https://hiporepo.github.io/smb.jpg",
-          "system":"NES"
-        },
-        {
-          "name":"Super Mario Bros: The Lost Levels",
-          "link":"https://www.dropbox.com/s/vp31lknb20gphbc/Super%20Mario%20Bros%20The%20Lost%20Levels.nes?dl=1",
-          "boxart":"https://hiporepo.github.io/tll.png",
-          "system":"NES"
-        },
-        {
-          "name":"Super Mario Advance 4",
-          "link":"https://www.dropbox.com/s/hwpq8tu30tkwr37/Super%20Mario%20Advance%204.gba?dl=1",
-          "boxart":"https://hiporepo.github.io/sm4.jpg",
-          "system":"GBA"
-        },
-        {
-          "name":"The Legend of Zelda",
-          "link":"https://www.dropbox.com/s/lp17sc2047ec54o/The%20Legend%20of%20Zelda.nes?dl=1",
-          "boxart":"https://hiporepo.github.io/loz.png",
-          "system":"NES"
         }
       ]
     }
