@@ -36,6 +36,12 @@
           "link":"https://www.dropbox.com/s/hwpq8tu30tkwr37/Super%20Mario%20Advance%204.gba?dl=1",
           "boxart":"https://hiporepo.github.io/sm4.jpg",
           "system":"GBA"
+        },
+        {
+          "name":"The Legend of Zelda",
+          "link":"https://www.dropbox.com/s/lp17sc2047ec54o/The%20Legend%20of%20Zelda.nes?dl=1",
+          "boxart":"https://hiporepo.github.io/loz.png",
+          "system":"NES"
         }
       ]
     }
