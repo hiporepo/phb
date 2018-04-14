@@ -20,6 +20,12 @@
           "system":"GB"
         },
         {
+          "name":"Pokemon Blue",
+          "link":"https://www.dropbox.com/s/vzja87lhndcuqa8/Pokemon%20Blue.gb?dl=1",
+          "boxart":"https://hiporepo.github.io/pmb.jpg",
+          "system":"GB"
+        },
+        {
           "name":"Super Mario Bros",
           "link":"https://www.dropbox.com/s/3wflvlz0vpt7dqx/Super%20Mario%20Bros.nes?dl=1",
           "boxart":"https://hiporepo.github.io/smb.jpg",
