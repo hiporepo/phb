@@ -26,6 +26,12 @@
           "system":"GB"
         },
         {
+          "name":"Pokemon Yellow",
+          "link":"https://www.dropbox.com/s/lw8nmxt28g6uaqu/Pokemon%20Yellow.gbc?dl=1",
+          "boxart":"https://hiporepo.github.io/pmy.jpg",
+          "system":"GBC"
+        },
+        {
           "name":"Super Mario Bros",
           "link":"https://www.dropbox.com/s/3wflvlz0vpt7dqx/Super%20Mario%20Bros.nes?dl=1",
           "boxart":"https://hiporepo.github.io/smb.jpg",
