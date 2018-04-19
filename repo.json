@@ -13,6 +13,16 @@
           "boxart":"https://hiporepo.github.io/phb/vulkanon.png",
           "system":"GBA"
         }
+    ]
+  },
+    {
+      "categoryname": "NES",
+      "games": [{
+          "name":"Eskimo Bob - NES",
+          "link":"https://www.dropbox.com/s/1ehean1dogvhzn0/Eskimo%20Bob%20NES%20-%20Demo.nes?dl=1",
+          "boxart":"https://hiporepo.github.io/emb.jpg",
+          "system":"NES"
+        },
       ]
     }
   ]
