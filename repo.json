@@ -2,8 +2,7 @@
   "reponame":"Public Homebrew Repository",
   "repologo":"https://hiporepo.github.io/phb/repologo.png",
   "repoauthor":"Hipeopeo / Internet",
-  "repodesc":"A Public Homebrew Repository
-  <br> https://github.com/hiporepo/phb",
+  "repodesc":"A Public Homebrew Repository",
   "categories":[
     {
       "categoryname":"Gameboy / Color / Advanced",
