@@ -14,6 +14,12 @@
           "system":"GBA"
         },
         {
+          "name":"Pokemon CAWPS",
+          "link":"http://hiporepo.github.io/phb/ROMs/Pokemon%20Cawps.gba",
+          "boxart":"https://hiporepo.github.io/phb/Boxart/Pokemon%20CAWPS.jpg",
+          "system":"GBA"
+        },
+        {
           "name":"Pokemon Prism",
           "link":"https://www.dropbox.com/s/syk65hn156p9o3v/Pokemon%20Prism.gbc?dl=1",
           "boxart":"https://hiporepo.github.io/phb/pprism.jpg",
