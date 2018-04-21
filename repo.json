@@ -37,6 +37,12 @@
           "system":"NES"
         },
         {
+          "name":"Lizard",
+          "link":"https://hiporepo.github.io/phb/ROMs/lizard_alpha.nes",
+          "boxart":"https://hiporepo.github.io/phb/Boxart/lizard_graphic.png",
+          "system":"NES"
+        },
+        {
           "name":"NeSnake",
           "link":"https://www.dropbox.com/s/tzhuoiunqrihtr7/NeSnake.nes?dl=1",
           "boxart":"https://hiporepo.github.io/phb/nesnake.jpg",
