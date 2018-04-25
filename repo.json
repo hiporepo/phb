@@ -47,6 +47,12 @@
           "link":"https://www.dropbox.com/s/tzhuoiunqrihtr7/NeSnake.nes?dl=1",
           "boxart":"https://hiporepo.github.io/phb/nesnake.jpg",
           "system":"NES"
+        },
+        {
+          "name":"Battle Kid - Fortress of Peril",
+          "link":"https://hiporepo.github.io/phb/ROMs/Battle_Kid_Fortress_of_Peril.nes",
+          "boxart":"https://hiporepo.github.io/phb/Boxart/battlekid.png",
+          "system":"NES"
         }
       ]
     }
