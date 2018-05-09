@@ -14,6 +14,12 @@
           "system":"GBA"
         },
         {
+          "name":"Pokemon Delta Emerald",
+          "link":"https://hiporepo.github.io/phb/ROMs/Pokemon-Delta-Emerald",
+          "boxart":"https://hiporepo.github.io/phb/Boxart/pokemondeltaemerald.jpg",
+          "system":"GBA"
+        },
+        {
           "name":"Pokemon CAWPS",
           "link":"http://hiporepo.github.io/phb/ROMs/Pokemon-Cawps.gba",
           "boxart":"https://hiporepo.github.io/phb/Boxart/Pokemon%20CAWPS.jpg",
