@@ -26,6 +26,12 @@
           "system":"GBA"
         },
         {
+          "name":"Pokemon Liquid Crystal",
+          "link":"http://hiporepo.github.io/phb/ROMs/Pokemon-Liquid-Crystal.gba",
+          "boxart":"https://hiporepo.github.io/phb/Boxart/plq.jpg",
+          "system":"GBA"
+        },
+        {
           "name":"Pokemon Prism",
           "link":"https://www.dropbox.com/s/syk65hn156p9o3v/Pokemon%20Prism.gbc?dl=1",
           "boxart":"https://hiporepo.github.io/phb/pprism.jpg",
