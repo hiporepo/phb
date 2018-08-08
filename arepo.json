@@ -1,9 +1,9 @@
 {
-  "nes": [
+  "GBC": [
     {
-      "name": "Tetris",
-      "icon": "http://skitty.xyz/aurora/go/assets/img/games/nes/tetris.png",
-      "link": "http://www.nesfiles.com/NES/Tetris/Tetris.nes"
+      "name": "Pokemon Prism",
+      "icon": "https://hiporepo.github.io/phb/pprism.jpg",
+      "link": "https://www.dropbox.com/s/syk65hn156p9o3v/Pokemon%20Prism.gbc?dl=1"
     }
   ]
 }
