@@ -1,5 +1,7 @@
 {
-  "GBC": [
+  "name": "Public Homebrew",
+  "author": "Hipeopeo / Internet",
+  "gbc": [
     {
       "name": "Pokemon Prism",
       "icon": "https://hiporepo.github.io/phb/pprism.jpg",
