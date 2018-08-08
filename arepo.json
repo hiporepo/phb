@@ -2,10 +2,33 @@
   "name": "Public Homebrew",
   "author": "Hipeopeo / Internet",
   "gbc": [
-    {
+   {
       "name": "Pokemon Prism",
       "icon": "https://hiporepo.github.io/phb/pprism.jpg",
       "link": "https://www.dropbox.com/s/syk65hn156p9o3v/Pokemon%20Prism.gbc?dl=1"
     }
+  ]
+},
+  "nes": [
+   {
+      "name": "Eskimo Bob - NES",
+      "icon": "https://hiporepo.github.io/phb/Boxart/emb.png",
+      "link": "https://www.dropbox.com/s/1ehean1dogvhzn0/Eskimo%20Bob%20NES%20-%20Demo.nes?dl=1"
+    },
+    {
+      "name": "Lizard",
+      "icon": "https://hiporepo.github.io/phb/Boxart/lizard_graphic.png",
+      "link": "https://hiporepo.github.io/phb/ROMs/lizard_alpha.nes"
+    },
+    {
+      "name": "NeSnake",
+      "icon": "https://hiporepo.github.io/phb/nesnake.jpg",
+      "link": "https://www.dropbox.com/s/tzhuoiunqrihtr7/NeSnake.nes?dl=1"
+    },
+    {
+      "name": "Battle Kid - Fortress of Peril",
+      "icon": "https://hiporepo.github.io/phb/Boxart/battlekid.png",
+      "link": "https://hiporepo.github.io/phb/ROMs/Battle_Kid_Fortress_of_Peril.nes"
+    },
   ]
 }
