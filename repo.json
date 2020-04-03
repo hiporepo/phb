@@ -32,6 +32,12 @@
           "system":"GBA"
         },
         {
+          "name":"DOOM GBA (prboom)",
+          "link":"https://github.com/Kippykip/GBADoom/releases/latest/download/GBADoom.gba",
+          "boxart":"https://images-na.ssl-images-amazon.com/images/I/61Z00R48SAL._SX342_.jpg",
+          "system":"GBA"
+        },
+        {
           "name":"Pokemon Prism",
           "link":"https://www.dropbox.com/s/syk65hn156p9o3v/Pokemon%20Prism.gbc?dl=1",
           "boxart":"https://hiporepo.github.io/phb/pprism.jpg",
