@@ -2,10 +2,10 @@
   "reponame":"Public Homebrew Repository",
   "repologo":"https://hiporepo.github.io/phb/repologo.png",
   "repoauthor":"Hipeopeo / Internet",
-  "repodesc":"A Public Homebrew Repository   bit.ly/publichb",
+  "repodesc":"A Public Homebrew Repository   git.io/JvbfZ",
   "categories":[
     {
-      "categoryname":"Gameboy / Color / Advanced",
+      "categoryname":"GB / GBC / GBA",
       "games":[
         {
           "name":"Vulkanon",
